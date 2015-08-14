@@ -1,0 +1,13 @@
+zmq/libzmq.so
+zmq/core/_device.so
+zmq/core/_poll.so
+zmq/core/_version.so
+zmq/core/constants.so
+zmq/core/context.so
+zmq/core/error.so
+zmq/core/message.so
+zmq/core/socket.so
+zmq/core/stopwatch.so
+zmq/devices/monitoredqueue.so
+zmq/utils/initthreads.so
+zmq/utils/rebuffer.so
